@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Machine learning Algorithms.
 - 🤔 I’m looking for help from All My seniors.
 - 💬 Ask me about Python and Machine Learning.
-- 📫 How to reach me: yashwant94308@gmail.com
+- 📫 How to reach me: yashwant.kumar@block8.com
 - ⚡ Fun fact:  I watched 21 movies in 21 days during the first lockdown on April'20.
 
 ### Languages and Tools:
