@@ -1,10 +1,9 @@
 ### Hi, I'm Yashwant 👋
 
 - 🔭 I’m a supervised learner but know how to tackle with unsupervised problems too.
-- 🌱 Developing an Android App using Flutter and Python at backend.
+- 🌱 Developing Projects With HTML + CSS + JS + JQUERY + Manymore.
 - 🌱 I’m currently learning Machine learning Algorithms.
-- 🤔 I’m looking for help from All My seniors.
-- 💬 Ask me about Python and Machine Learning.
+- 💬 Ask me about Python + Machine Learning + HTML + CSS + JS.
 - 📫 How to reach me: yashwant.kumar@block8.com
 - ⚡ Fun fact:  I watched 21 movies in 21 days during the first lockdown on April'20.
 
